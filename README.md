@@ -73,6 +73,6 @@ pass
 
 ```
 
-Example output
+Example output<br>
 ![](https://raw.githubusercontent.com/tungptse04207/HOD401/master/images/lab3.png)
 
